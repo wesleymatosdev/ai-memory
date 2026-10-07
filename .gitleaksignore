@@ -12,3 +12,5 @@ d8361d3c3a86f870f74841b53c568c64fe42ab1f:crates/ai-memory-core/src/sanitize.rs:g
 # Fixed relay queue error label; contains no credential material.
 d7ba81976c35b0462f35a4efc53b44347c42295a:companions/ai-memory-relay/src/relay.rs:generic-api-key:331
 4927e9f3c9243db213b7b77c000b4622038cc34f:crates/ai-memory-core/src/sanitize.rs:generic-api-key:526
+# Synthetic idempotency key in a PowerShell outage test; contains no credential material.
+c09b13e377c37e720c6e64dbfd5ffff535802b23:tests/hooks/test_spool_ps.ps1:generic-api-key:21
